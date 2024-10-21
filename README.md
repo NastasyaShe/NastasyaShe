@@ -7,6 +7,7 @@ QA-engineer
 
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [nastyaboch24@gmail.com](mailto:nastyaboch24@gmail.com)
+* 🧠  I'm learning 2 QA-engineer courses and I'm obsessed with idea to qualified QA-engineer
 
 ### Skills
 
