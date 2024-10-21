@@ -18,11 +18,16 @@ QA-engineer
 
 ### My projects :
 1) Testing an online store
-* Description:
-Compiling test cases
-Testing report with test case statuses
-List of requirements
-Bug reports with detailed information
-Regression testing
+-----------
+* Compiling test cases
+
+* Testing report with test case statuses
+
+* List of requirements
+
+* Bug reports with detailed information
+
+* Regression testing
+
 
 
