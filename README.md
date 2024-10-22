@@ -17,7 +17,7 @@ QA-engineer
 </p>
 
 ### My projects :
-1) [Testing an online store](https://github.com/NastasyaShe/qa-engineer-project-84) 
+[Testing an online store](https://github.com/NastasyaShe/qa-engineer-project-84) 
 -----------
 * Compiling test cases
 
