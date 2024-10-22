@@ -8,6 +8,12 @@ QA-engineer
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [nastyaboch24@gmail.com](mailto:nastyaboch24@gmail.com)
 * 🧠  I'm learning 2 QA-engineer courses and I'm obsessed with idea to be a qualified QA-engineer
+  
+  Courses's list:
+  
+  :heavy_plus_sign:  Hexlet, QA engineer (manual) :computer:
+  
+  :heavy_plus_sign:  Sedtest-school, Software Testing Basics (manual) :computer: 
 
 ### Skills
 
@@ -19,11 +25,14 @@ QA-engineer
 ### My projects :
 [Testing an online store](https://github.com/NastasyaShe/qa-engineer-project-84) 
 -----------
-* Compiling test cases
+  This is an online-store with various goods which you can pick and search with filter, put in your cart and make an order. I'd explored all functions and after that decomposed them for making check-lists and check-cases using black-box method. This online store has 2 versions, so I also did a regression testing to check efficency of all elements.
+  What has been done: 
+  
+* List of requirements (functional, non-functional, implicit)
+  
+* Compiled test cases
 
-* Testing report with test case statuses
-
-* List of requirements
+* Test reports with test case statuses
 
 * Bug reports with detailed information
 
