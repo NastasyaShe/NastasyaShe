@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA-engineer
 -----------
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia
 * ✉️  You can contact me at [nastyaboch24@gmail.com](mailto:nastyaboch24@gmail.com)
 * 🧠  I'm learning 2 QA-engineer courses and I'm obsessed with idea to be a qualified QA-engineer
   
