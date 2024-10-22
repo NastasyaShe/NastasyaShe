@@ -2,11 +2,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anastasia
 =================================================================================================================================
 
-QA-engineer
+**I'am Junior QA-engineer**
+
+I'm looking for my first job in IT to make myself as a confident QA specialist. 
+
+I want to develop  myself in the field of testing and I'm ready for new challenges and training. Flexibility, responsibility, communication skills, initiative - these are the qualities that I want to bring to any team :dizzy: .
+
 -----------
 
-* 🌍  I'm based in Russia
+* 🌍  I'm based in Russia, Samara
 * ✉️  You can contact me at [nastyaboch24@gmail.com](mailto:nastyaboch24@gmail.com)
+* :iphone:  Telegram: https://t.me/AnastasiiaSh24
 * 🧠  I'm learning 2 QA-engineer courses and I'm obsessed with idea to be a qualified QA-engineer
   
   Courses's list:
